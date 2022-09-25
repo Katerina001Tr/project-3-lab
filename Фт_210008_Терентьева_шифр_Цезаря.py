@@ -10,3 +10,11 @@ if shifrovka==1:
                 shifr+=alfavitEU[newpol]
             else:
                 shifr+=i
+elif shifrovka==2:
+        for i in input('Введите сообщение, которое надо расшифровать: ').upper():
+            pol=alfavitEU.find(i)
+            newpol=pol-b 
+            if i in alfavitEU:
+                shifr+=alfavitEU[newpol]
+            else:
+                shifr+=i

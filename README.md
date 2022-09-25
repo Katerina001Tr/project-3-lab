@@ -8,6 +8,6 @@
 <h4 align=>Следует открывать файл "Фт-210008_Терентьева_шифр_Цезаря.py" </h3>
 <h4 align=>Для того, чтобы запустить программу необходимо скопировать код и вставить в любую среду разработки, поддерживающую Python.При введении строки для шифрования вы получаете на выходе зашифрованное сообщение. И наоборот, при введении уже зашифрованного текста, вы получите его расшифровку. </h3>
 <h2 => Скриншоты выполнения программы для тестов: </a> 
-<img src="https://github.com/Katerina001Tr/project/blob/main/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%20(935).png" alt="">
+<img src="https://github.com/Katerina001Tr/project-3-lab/blob/main/screenshots/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%20(947).png" alt="">
 <img src="https://github.com/Katerina001Tr/project/blob/main/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%20(936).png" alt="">
 <img src="https://github.com/Katerina001Tr/project/blob/main/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%20(937).png" alt="">

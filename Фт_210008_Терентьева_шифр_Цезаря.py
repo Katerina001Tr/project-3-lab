@@ -18,3 +18,4 @@ elif shifrovka==2:
                 shifr+=alfavitEU[newpol]
             else:
                 shifr+=i
+print(shifr) 
